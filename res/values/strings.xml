@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Zipcoe</string>
+    <string name="msg">Response Message</string>
+    <string name="count">Show Count</string>
+</resources>
